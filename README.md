@@ -1,2 +1,7 @@
-# Hackathon_Income_Forecast_Project
-Hackathon_Income_Forecast_Python_Project
+# 해커톤 소득 예측 AI 모델 🖐️
+본 프로젝트는, 데이콘에서 진행하는 프로젝트를 참가하며, 개선해 나가는 모습을 기록하기 위해 남깁니다.
+---
+### 📖 데이콘 - 해커톤 소득 예측 AI 모델 공모전의 제약 조건
+- 외부 데이터 사용 불가
+- 사용에 법적 제한이 없으며 논문으로 공개된 베이스의 사전 학습 모델(Pre-trained Model) 사용 가능
+- 모든 AutoML 패키지 사용 불가능
